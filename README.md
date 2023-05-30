@@ -1,7 +1,7 @@
 # udacity-frontend-nanodegrees-nlp-app
 Udacity Frontend Nanodegrees - Evaluate a News Article with Natural Language Processing (NLP)
 
-<!-- ## [Weather-Journal App](https://weather-journal-app-xpq7.onrender.com/) -->
+## [Natural Language Processing (NLP) App](https://natural-language-processing-nlp.onrender.com/)
 ## Overview
 
 This project create an asynchronous web app that uses Sentiment Analysis API(https://api.meaningcloud.com/sentiment-2.1) to evaluate a News Article with Natural Language Processing (NLP) and dynamically update the UI.
@@ -34,7 +34,7 @@ In root folder (udacity-frontend-nanodegrees-nlp-app) run:
 
 then run:
 
-        npm run dev
+    npm run dev
 ## To run Tests:
 
 In root folder (udacity-frontend-nanodegrees-nlp-app) run:
