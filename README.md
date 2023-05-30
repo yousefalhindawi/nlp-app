@@ -32,7 +32,7 @@ In root folder (udacity-frontend-nanodegrees-nlp-app) run:
 
     npm run build-prod
 
-    then run:
+then run:
 
         npm run dev
 ## To run Tests:
