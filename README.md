@@ -1,4 +1,4 @@
-# udacity-frontend-nanodegrees-nlp-app
+# nlp-app
 Udacity Frontend Nanodegrees - Evaluate a News Article with Natural Language Processing (NLP)
 
 ## [Natural Language Processing (NLP) App](https://natural-language-processing-nlp.onrender.com/)
